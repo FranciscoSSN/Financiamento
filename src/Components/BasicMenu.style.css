@@ -1,0 +1,13 @@
+.basic-menu-contianer {
+    border: 1px solid #fff;
+}
+
+.basic-menu-contianer > Button {
+    color: #fff;
+    font-size: 20px;
+    opacity: 0.1s;
+}
+
+.basic-menu-contianer > Button:hover {
+    color: #dad5d5;
+}

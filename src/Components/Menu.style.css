@@ -1,0 +1,18 @@
+.logo-fundo {
+  background-image: url("https://images.pexels.com/photos/5793953/pexels-photo-5793953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: 100% 170%;
+  height: 500px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.logo {
+  height: 40px;
+  width: 70px;
+}
